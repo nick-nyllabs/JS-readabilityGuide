@@ -3,4 +3,7 @@
 + `req`: A request object, in express routing middleware.
 + `res`: A response object, in express routing middleware.
 
-### Specific
+### Specific to nyllabs data
+
++ `bene`: Beneficiary
+    + `ben` _(depricated)_: you might see this, but should not produce more of them.
