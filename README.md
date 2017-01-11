@@ -4,7 +4,7 @@
 
 **All variable names should be concise but descriptive**
 
-```
+```javascript
 //good
 let userDetails;
 let socket = new io();
